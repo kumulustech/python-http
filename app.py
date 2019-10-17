@@ -1,6 +1,7 @@
 #!/usr/bin/python
 
 # (c) 2017 Robert Starmer <robert@kumul.us>
+# (c) 2017 Kumulus Technologies
 #
 from http.server import BaseHTTPRequestHandler, HTTPServer
 
