@@ -1,5 +1,7 @@
 #!/usr/bin/python
 
+# (c) 2017 Robert Starmer <robert@kumul.us>
+#
 from http.server import BaseHTTPRequestHandler, HTTPServer
 
 PORT_NUMBER = 8080
